@@ -41,3 +41,6 @@ elif opcao == "6":
     y = input("Digite o segundo número: ")
     resultado = float(x)**float(y)
     print("O resultado é: ", resultado)
+
+else:
+    print("Por favor, escolha uma opção válida")
